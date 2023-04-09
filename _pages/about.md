@@ -70,4 +70,8 @@ Other: My hobbies include music, travel, photography, running, flying drone and 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.09 - 2022.06*, [Shanghai Tongji Urban Planning & Design Institute Co. Ltd](http://www.tjupdi.com/new/), Shanghai, China (part-time).
+- 上海同济城市规划设计研究院有限公司
+- *2017.07 - 2017.09*, [Zhejiang Urban and Rural Planning Design Institute Co. Ltd](https://www.zjplan.com/home.html), Hangzhou, China (full-time).
+- 浙江省城乡规划设计研究院有限公司
+
