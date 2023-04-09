@@ -58,8 +58,9 @@ Other: My hobbies include music, travel, photography, running, flying drone and 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022* Excellent graduate of Tongji University 同济大学优秀毕业生
+- *2021* National scholarship 国家奖学金
+- *2021* Excellent student of Tongji University 同济大学优秀学生
 
 # 📖 Educations
 - *2022.09 - now*, Ph.D. candidate: Department of Urban Planning, Tongji University, Shanghai, China
