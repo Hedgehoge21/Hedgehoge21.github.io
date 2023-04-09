@@ -62,12 +62,14 @@ Other: My hobbies include music, travel, photography, running, flying drone and 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - now*, Ph.D. candidate: Department of Urban Planning, Tongji University, Shanghai, China
+- *2019.09 - 2022.06*, Master of Engineering: Department of Urban Planning, Tongji University, Shanghai, China
+- *2014.09 - 2019.06*, Bachelor of Engineering: Department of Urban Planning, Xi'an University of Architecture and Technology, Xi'an, China
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Presentations
+- *2021.09*, Special Meeting of 2020/2021 China Urban Planning Annual Meeting, Chengdu, China 
+- *2021.04*, Urban Space Analysis Forum ＆ The 6th Space Syntax Symposium in China, Guangzhou, China \| [\[video\]](https://github.com/)
+- *2020.10*, 13th International Forum on Urbanism（IFOU2020）, Nanjing, China
 
 # 💻 Internships
 - *2019.09 - 2022.06*, [Shanghai Tongji Urban Planning & Design Institute Co. Ltd](http://www.tjupdi.com/new/), Shanghai, China (part-time).
