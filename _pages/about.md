@@ -18,17 +18,22 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Current: I am now a Ph.D. student in Urban Planning from Tongji University, China.
+
 目前我是同济大学城乡规划学的一名在读博士生。
 
 Research Interests:
 Regional and urban planning: Master planning, Urban development policy, Strategic research, Scenario planning, Urban network, Urban structure
+
 Transportation planning: Transit Oriented Development (TOD), High-speed rail station, Public transportation
+
 我的研究兴趣包括但不限于以下方面：区域和城市空间发展（总体规划、城市发展政策、战略研究、情景规划、城市网络、城市结构）、交通规划（TOD、高铁、公共交通）。
 
 Recent work: My recent research includes using mobile phone signaling data to analyze commuting in Shanghai Hongqiao Business District and evaluate its planning scheme. Besides, the preliminary work of evaluation of planning of high-speed rail new towns in Yangtze River Delta region is also being carried out.
+
 我最近的研究包括利用手机信令数据分析上海虹桥商业区的通勤情况，并评估其规划方案。此外，也在进行长三角地区高铁新城规划评价研究的前期工作。
 
 Other: My hobbies include music, travel, photography, running, flying drone and so on.
+
 我的兴趣爱好包括音乐、旅行、摄影、跑步、飞无人机等。
 
 
