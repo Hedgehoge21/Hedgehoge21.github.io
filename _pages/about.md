@@ -46,7 +46,7 @@ Transportation planning: Transit Oriented Development (TOD), High-speed rail sta
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">城市规划学刊 2021</div><img src='论文1500300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The Urban Network in the Yangtze River Delta Based on Planning Text Analysis——Take the 14th Five-year Plan of Cities as an Example]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.16361/j.upf.202105010)
+[The Urban Network in the Yangtze River Delta Based on Planning Text Analysis——Take the 14th Five-year Plan of Cities as an Example](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.16361/j.upf.202105010)
 
 **Yin Dou**, Yajuan Wang
 
@@ -55,7 +55,7 @@ Transportation planning: Transit Oriented Development (TOD), High-speed rail sta
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [窦寅,王欣宜. 城市商务区空中步行系统效能评价研究——以虹桥商务区中轴为例[C]//中国城市规划学会城市交通规划学术委员会.2021/2022年中国城市交通规划年会论文集](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOE4DdIn5fHRa7whAmAecdzvdhEf9I9nOP-XjXJEQ5_H_3Kyd51U0FZClx-p_4l8dXl-IJjTH5VcQk%3d&uniplatform=NZKPT).2022:3145-3156. Yin Dou, Xinyi Wang. Study on Efficiency Evaluation of Skyway System in Urban Business District: A Case Study of the Central Axis of Hongqiao Business District. 2021/2022 Annual Conference on Urban Transportation Planning in China. Shanghai, China, 2022, 3145-3156. DOI: 10.26914/c.cnkihy.2022.059347.
 
 # 🎖 Honors and Awards
 - *2022* Excellent graduate of Tongji University 同济大学优秀毕业生
