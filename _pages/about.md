@@ -46,16 +46,26 @@ Transportation planning: Transit Oriented Development (TOD), High-speed rail sta
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">城市规划学刊 2021</div><img src='images/论文1500300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The Urban Network in the Yangtze River Delta Based on Planning Text Analysis——Take the 14th Five-year Plan of Cities as an Example](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.16361/j.upf.202105010)
+[The Urban Network in the Yangtze River Delta Based on Planning Text Analysis——Take the 14th Five-year Plan of Cities as an Example](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHR-asFLc0JKWm_29q9yBJ91mJrsWTJSyn0Hvmp0t8bqy&uniplatform=NZKPT) <br/>基于规划文本分析的长三角城市网络研究——以各市“十四五”规划建议为例
 
 **Yin Dou**, Yajuan Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Keywords:the Yangtze River Delta urban agglomeration;urban network;the 14thfive-year plan;social network analysis;text analysis 
 </div>
 </div>
 
-- [窦寅,王欣宜. 城市商务区空中步行系统效能评价研究——以虹桥商务区中轴为例[C]//中国城市规划学会城市交通规划学术委员会.2021/2022年中国城市交通规划年会论文集](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOE4DdIn5fHRa7whAmAecdzvdhEf9I9nOP-XjXJEQ5_H_3Kyd51U0FZClx-p_4l8dXl-IJjTH5VcQk%3d&uniplatform=NZKPT).2022:3145-3156. Yin Dou, Xinyi Wang. Study on Efficiency Evaluation of Skyway System in Urban Business District: A Case Study of the Central Axis of Hongqiao Business District. 2021/2022 Annual Conference on Urban Transportation Planning in China. Shanghai, China, 2022, 3145-3156. DOI: 10.26914/c.cnkihy.2022.059347.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">城市规划学刊 2021</div><img src='images/论文2500300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The Application of Scenario Analysis in Urban Planning in the Past 30 Years: A Review and Outlook of Bibliometric-based Research](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C45S0n9fL2suRadTyEVl2pW9UrhTDCdPD66CgmbxQ2RH65DwlPdVB_cRB6kO6a8gL28kEYU4sTboJXReBlTKAX_d&uniplatform=NZKPT)<br/>近30年情景分析在城市规划中的应用——基于文献计量的研究综述与展望
+
+**Yin Dou**, Shangwu Zhang
+
+- Keywords:Scenario Analysis; Bibliometrics; Research Review; Mapping Knowledge Domains; CiteSpace
+</div>
+</div>
+
+- [窦寅,王欣宜. 城市商务区空中步行系统效能评价研究——以虹桥商务区中轴为例](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOE4DdIn5fHRa7whAmAecdzvdhEf9I9nOP-XjXJEQ5_H_3Kyd51U0FZClx-p_4l8dXl-IJjTH5VcQk%3d&uniplatform=NZKPT)[C]//中国城市规划学会城市交通规划学术委员会.2021/2022年中国城市交通规划年会论文集.2022:3145-3156.<br/>Yin Dou, Xinyi Wang. Study on Efficiency Evaluation of Skyway System in Urban Business District: A Case Study of the Central Axis of Hongqiao Business District. 2021/2022 Annual Conference on Urban Transportation Planning in China. Shanghai, China, 2022, 3145-3156. DOI: 10.26914/c.cnkihy.2022.059347.
 
 # 🎖 Honors and Awards
 - *2022* Excellent graduate of Tongji University 同济大学优秀毕业生
