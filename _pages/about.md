@@ -20,27 +20,27 @@ redirect_from:
 **Current**: I am now a Ph.D. student in Urban Planning from Tongji University, China.
 
 目前我是同济大学城乡规划学的一名在读博士生。
-
+<br/>
 **Research Interests:**
 Regional and urban planning: Master planning, Urban development policy, Strategic research, Scenario planning, Urban network, Urban structure
 
 Transportation planning: Transit Oriented Development (TOD), High-speed rail station, Public transportation
 
 我的研究兴趣包括但不限于以下方面：区域和城市空间发展（总体规划、城市发展政策、战略研究、情景规划、城市网络、城市结构）、交通规划（TOD、高铁、公共交通）。
-
+<br/>
 **Recent work:** My recent research includes using mobile phone signaling data to analyze commuting in Shanghai Hongqiao Business District and evaluate its planning scheme. Besides, the preliminary work of evaluation of planning of high-speed rail new towns in Yangtze River Delta region is also being carried out.
 
 我最近的研究包括利用手机信令数据分析上海虹桥商业区的通勤情况，并评估其规划方案。此外，也在进行长三角地区高铁新城规划评价研究的前期工作。
-
+<br/>
 **Other:** My hobbies include music, travel, photography, running, flying drone and so on.
 
 我的兴趣爱好包括音乐、旅行、摄影、跑步、飞无人机等。
-
+<br/>
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+<br/>
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">国际城市规划 2022</div><img src='images/论文2500300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -66,22 +66,22 @@ Transportation planning: Transit Oriented Development (TOD), High-speed rail sta
 
 
 - [窦寅,王欣宜. 城市商务区空中步行系统效能评价研究——以虹桥商务区中轴为例](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOE4DdIn5fHRa7whAmAecdzvdhEf9I9nOP-XjXJEQ5_H_3Kyd51U0FZClx-p_4l8dXl-IJjTH5VcQk%3d&uniplatform=NZKPT)[C]//中国城市规划学会城市交通规划学术委员会.2021/2022年中国城市交通规划年会论文集.2022:3145-3156.<br/>Yin Dou, Xinyi Wang. Study on Efficiency Evaluation of Skyway System in Urban Business District: A Case Study of the Central Axis of Hongqiao Business District. 2021/2022 Annual Conference on Urban Transportation Planning in China. Shanghai, China, 2022, 3145-3156. DOI: 10.26914/c.cnkihy.2022.059347.
-
+<br/>
 # 🎖 Honors and Awards
 - *2022* Excellent graduate of Tongji University 同济大学优秀毕业生
 - *2021* National scholarship 国家奖学金
 - *2021* Excellent student of Tongji University 同济大学优秀学生
-
+<br/>
 # 📖 Educations
 - *2022.09 - now*, **Ph.D. candidate**: Department of Urban Planning, **Tongji University**, Shanghai, China
 - *2019.09 - 2022.06*, **Master of Engineering**: Department of Urban Planning, **Tongji University**, Shanghai, China
 - *2014.09 - 2019.06*, **Bachelor of Engineering**: Department of Urban Planning, **Xi'an University of Architecture and Technology**, Xi'an, China
-
+<br/>
 # 💬 Presentations
 - *2021.09*, Special Meeting of 2020/2021 China Urban Planning Annual Meeting, Chengdu, China<br/>2020/2021中国城市规划年会专题会议，四川成都
 - *2021.04*, Urban Space Analysis Forum ＆ The 6th Space Syntax Symposium in China, Guangzhou, China<br/>2021城市空间分析论坛暨第六届中国空间句法学术研讨会，广东广州，华南理工大学
 - *2020.10*, 13th International Forum on Urbanism（IFOU2020）, Nanjing, China<br/>第十三届国际城市化论坛，江苏南京，南京大学
-
+<br/>
 # 💻 Internships
 - *2019.09 - 2022.06*, [Shanghai Tongji Urban Planning & Design Institute Co. Ltd](http://www.tjupdi.com/new/), Shanghai, China (part-time).
   上海同济城市规划设计研究院有限公司
