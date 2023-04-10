@@ -68,9 +68,9 @@ Transportation planning: Transit Oriented Development (TOD), High-speed rail sta
 - *2014.09 - 2019.06*, **Bachelor of Engineering**: Department of Urban Planning, **Xi'an University of Architecture and Technology**, Xi'an, China
 
 # 💬 Presentations
-- *2021.09*, Special Meeting of 2020/2021 China Urban Planning Annual Meeting, Chengdu, China 
-- *2021.04*, Urban Space Analysis Forum ＆ The 6th Space Syntax Symposium in China, Guangzhou, China \| [\[video\]](https://github.com/)
-- *2020.10*, 13th International Forum on Urbanism（IFOU2020）, Nanjing, China
+- *2021.09*, Special Meeting of 2020/2021 China Urban Planning Annual Meeting, Chengdu, China  2020/2021中国城市规划年会专题会议，四川成都
+- *2021.04*, Urban Space Analysis Forum ＆ The 6th Space Syntax Symposium in China, Guangzhou, China  2021城市空间分析论坛暨第六届中国空间句法学术研讨会，广东广州，华南理工大学
+- *2020.10*, 13th International Forum on Urbanism（IFOU2020）, Nanjing, China  第十三届国际城市化论坛，江苏南京，南京大学
 
 # 💻 Internships
 - *2019.09 - 2022.06*, [Shanghai Tongji Urban Planning & Design Institute Co. Ltd](http://www.tjupdi.com/new/), Shanghai, China (part-time).
