@@ -43,7 +43,7 @@ Transportation planning: Transit Oriented Development (TOD), High-speed rail sta
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">城市规划学刊 2021</div><img src='论文1500300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">城市规划学刊 2021</div><img src='images/论文1500300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The Urban Network in the Yangtze River Delta Based on Planning Text Analysis——Take the 14th Five-year Plan of Cities as an Example](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.16361/j.upf.202105010)
