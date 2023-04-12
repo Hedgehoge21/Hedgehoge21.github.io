@@ -48,7 +48,7 @@ Transportation planning: Transit Oriented Development (TOD), High-speed rail sta
 <br/>
 
 # 📝 Publications 
-##📑Scenario planning
+## 📑Scenario planning
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">国际城市规划 2022</div><img src='images/论文2500300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -59,7 +59,7 @@ Transportation planning: Transit Oriented Development (TOD), High-speed rail sta
 - Keywords:Scenario Analysis; Bibliometrics; Research Review; Mapping Knowledge Domains; CiteSpace
 </div>
 </div>
-##🏙️Urban and regional planning
+## 🏙️Urban and regional planning
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">城市规划学刊 2021</div><img src='images/论文1500300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -71,12 +71,12 @@ Transportation planning: Transit Oriented Development (TOD), High-speed rail sta
 </div>
 </div>
 
-##🏢New town and new area
+## 🏢New town and new area
 - [**窦寅**.国内外城市商务区绿色交通规划实践及研究综述——兼谈对上海商务区的指导意义](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHSCxbfygg5TkhkJjXE75siaELLhiJYLN8E_Gxj4zwR3x&uniplatform=NZKPT)[J].城市建筑,2021,18(26):60-63.<br/>**Yin Dou**. Review of Green Transportation Planning Practice and Research in Urban Business Districts at Home and Abroad [J].Urbanism and Architecture,2021,18(26): 60-63. DOI: 10.19892/j.cnki.csjz.2021.26.15. 
 
 - [**窦寅**,王欣宜. 城市商务区空中步行系统效能评价研究——以虹桥商务区中轴为例](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOE4DdIn5fHRa7whAmAecdzvdhEf9I9nOP-XjXJEQ5_H_3Kyd51U0FZClx-p_4l8dXl-IJjTH5VcQk%3d&uniplatform=NZKPT)[C]//中国城市规划学会城市交通规划学术委员会.2021/2022年中国城市交通规划年会论文集.2022:3145-3156.<br/>**Yin Dou**, Xinyi Wang. Study on Efficiency Evaluation of Skyway System in Urban Business District: A Case Study of the Central Axis of Hongqiao Business District. 2021/2022 Annual Conference on Urban Transportation Planning in China. Shanghai, China, 2022, 3145-3156. DOI: 10.26914/c.cnkihy.2022.059347.
 
-##🚌Tranportation
+## 🚌Tranportation
 - [王欣宜,**窦寅**. 社区生活圈公共交通可达性的测度优化与评价——以上海市杨浦区居住小区为例](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOE4DdIn5fHRa7whAmAecdzvdhEf9I9nOP-Bo1NMlJcOfb_7t1TBm1jOgOVcH-4Ixu2avtI1RWQybw%3d&uniplatform=NZKPT)[C]//中国城市规划学会城市交通规划学术委员会.2021/2022年中国城市交通规划年会论文集.2022:296-307.<br/>Xinyi Wang, **Yin Dou**. Measurement and Evaluation of Public Transport Accessibility in Community Living Circle: A Case Study of Yangpu, Shanghai. 2021/2022 Annual Conference on Urban Transportation Planning in China. Shanghai, China, 2022, 296-307. DOI: 10.26914/c.cnkihy.2022.059103.
 <br/>
 <br/>
