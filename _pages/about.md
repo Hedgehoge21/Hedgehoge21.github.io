@@ -89,9 +89,9 @@ Transportation planning: Transit Oriented Development (TOD), High-speed rail sta
 <br/>
 
 # 📖 Educations
-- *2022.09 - now*, **Ph.D. candidate**: Department of Urban Planning, **Tongji University**, Shanghai, China
-- *2019.09 - 2022.06*, **Master of Engineering**: Department of Urban Planning, **Tongji University**, Shanghai, China
-- *2014.09 - 2019.06*, **Bachelor of Engineering**: Department of Urban Planning, **Xi'an University of Architecture and Technology**, Xi'an, China
+- *2022.09 - now*, **Ph.D. candidate**: Department of Urban Planning, **Tongji University**, Shanghai, China<br/>博士研究生：城市规划系，同济大学，中国上海（2022年至今）
+- *2019.09 - 2022.06*, **Master of Engineering**: Department of Urban Planning, **Tongji University**, Shanghai, China<br/>工学硕士：城市规划系，同济大学，中国上海（2019年-2022年）<br/>The Dissertation for Master Degree: Research on Scheme Evaluation and Optimization of Hongqiao Business District Based on Scenario Simulation of Job-Housing Spatial Performance<br/>硕士学位论文：基于职住空间绩效情景模拟的虹桥商务区规划评价与优化
+- *2014.09 - 2019.06*, **Bachelor of Engineering**: Department of Urban Planning, **Xi'an University of Architecture and Technology**, Xi'an, China<br/>工学学士：城市规划系，西安建筑科技大学，中国西安（2014年-2019年）<br/>Graduation project: Urban Design of Typical Small Towns around Xiongan New Area<br/>毕业设计：雄安新区周边典型小城镇设计
 <br/>
 <br/>
 
