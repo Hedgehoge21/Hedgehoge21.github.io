@@ -42,8 +42,7 @@ Transportation planning: Transit Oriented Development (TOD), High-speed rail sta
 <br/>
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.04*: &nbsp;🎉🎉 目前没啥新鲜事
 <br/>
 <br/>
 
