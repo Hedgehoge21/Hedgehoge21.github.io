@@ -103,7 +103,7 @@ You can find my CV here[Yin Dou's CV](images/Yin Dou - CV.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='images/design1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-##**Urban notochord ——Urban Design of Zhangjiang Science City in Pudong, Shanghai**##<br/>##**城市脊索——上海浦东张江科学城城市设计**##<br/>
+**Urban notochord ——Urban Design of Zhangjiang Science City in Pudong, Shanghai**<br/>**城市脊索——上海浦东张江科学城城市设计**<br/>
 The design land is long and narrow, scattered and lacks public activity center. The idea of urban notochord is put forward as a means of spatial organization mode, repairing and optimizing land use and elements. Through the connection of multi-layer transportation network, it is connected and integrated with the original functions.
 </div>
 </div>
