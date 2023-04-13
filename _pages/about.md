@@ -44,11 +44,6 @@ You can find my CV here[Yin Dou's CV](images/Yin Dou - CV.pdf).
 <br/>
 <br/>
 
-# 🔥 News
-- *2022.04*: &nbsp;🎉🎉 目前没啥新鲜事
-<br/>
-<br/>
-
 # 📝 Publications 
 ## 📑 Scenario planning
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">国际城市规划 2022</div><img src='images/论文2500300.png' alt="sym" width="100%"></div></div>
@@ -105,7 +100,7 @@ You can find my CV here[Yin Dou's CV](images/Yin Dou - CV.pdf).
 <br/>
 
 # 🖼️ Designs
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='images/design1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='images/图片1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ##**Urban notochord ——Urban Design of Zhangjiang Science City in Pudong, Shanghai**<br/>**城市脊索——上海浦东张江科学城城市设计**##<br/>
@@ -118,4 +113,11 @@ The design land is long and narrow, scattered and lacks public activity center. 
   <br/>上海同济城市规划设计研究院有限公司
 - *2017.07 - 2017.09*, [Zhejiang Urban and Rural Planning Design Institute Co. Ltd](https://www.zjplan.com/home.html), Hangzhou, China (full-time).
   <br/>浙江省城乡规划设计研究院有限公司
+
+# 📱 Contact
+- 📍 Address: 1239, Siping Road, Yangpu District, Shanghai, China
+- 📞 Phone: +86 18291416961
+- 📧 Email: douyin@tongji.edu.cn
+<br/>
+<br/>
 
