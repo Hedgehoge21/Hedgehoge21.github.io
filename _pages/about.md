@@ -105,7 +105,7 @@ You can find my CV here[Yin Dou's CV](images/Yin Dou - CV.pdf).
 <br/>
 
 # 🖼️ Designs
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='images/图片1' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='images/design1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ##**Urban notochord ——Urban Design of Zhangjiang Science City in Pudong, Shanghai**<br/>**城市脊索——上海浦东张江科学城城市设计**##<br/>
