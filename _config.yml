@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Yin Dou 窦寅"
-description              : "Ph.D. student in Urban Planning from Tongji University, China "
-repository               : "Hedgehoge21/douyin96.github.io"
+description              : "Urban Planning Department，Tongji University, China "
+repository               : "Hedgehoge21.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yin Dou 窦寅"
   avatar           : "images/toonmecom_3dc549.png"
-  bio              : "Tongji University"
+  bio              : "Ph.D. student"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
