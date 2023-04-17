@@ -108,7 +108,20 @@ You can find my CV here[Yin Dou's CV](images/Yin Dou - CV.pdf).
 The design land is long and narrow, scattered and lacks public activity center. The idea of urban notochord is put forward as a means of spatial organization mode, repairing and optimizing land use and elements. Through the connection of multi-layer transportation network, it is connected and integrated with the original functions.
 </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2019</div><img src='images/design2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+**Urban Design of Small Town around Xiongan New Area**<br/>**筑梦白洋淀 添彩大雄安——雄安新区周边典型小城镇设计**<br/>
+By paying attention to the planning and construction of small towns, ecological restoration and ecological construction, historical heritage protection and regional cultural development, it provides strategic ideas and planning and design schemes for exploring the vision and possible path of small town development in Xiongan New Area.<br/>[More](https://mp.weixin.qq.com/s/MAuC0MRquvyask7ik31vLw)
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2018</div><img src='images/design3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Renaissance Design of Hejin Old Town Based on Cultural and Tourism Catalyst**<br/>**牵山引水 衔古织今——基于文旅触媒的河津老城复兴设计**<br/>
+This scheme selects about 25 hectares of land in the old city of Hejin, with the theme of "Catalyst for Culture and Tourism", echoing the strategy of "Integration of Culture and Tourism" put forward by Hejin City. The specific design includes connecting the landscape resources in the north and south of the old city naturally, and building a modern life network while restoring the historical context.
+</div>
+</div>
 <br/>
 <br/>
 
