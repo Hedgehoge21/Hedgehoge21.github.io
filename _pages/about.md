@@ -49,22 +49,22 @@ You can find my CV here[Yin Dou's CV](images/Yin Dou - CV.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">国际城市规划 2022</div><img src='images/论文2500300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The Application of Scenario Analysis in Urban Planning in the Past 30 Years: A Review and Outlook of Bibliometric-based Research](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C45S0n9fL2suRadTyEVl2pW9UrhTDCdPD66CgmbxQ2RH65DwlPdVB_cRB6kO6a8gL28kEYU4sTboJXReBlTKAX_d&uniplatform=NZKPT)<br/>近30年情景分析在城市规划中的应用——基于文献计量的研究综述与展望
+[-The Application of Scenario Analysis in Urban Planning in the Past 30 Years: A Review and Outlook of Bibliometric-based Research](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C45S0n9fL2suRadTyEVl2pW9UrhTDCdPD66CgmbxQ2RH65DwlPdVB_cRB6kO6a8gL28kEYU4sTboJXReBlTKAX_d&uniplatform=NZKPT)<br/>近30年情景分析在城市规划中的应用——基于文献计量的研究综述与展望
 
 **Yin Dou**, Shangwu Zhang
 
-- Keywords:Scenario Analysis; Bibliometrics; Research Review; Mapping Knowledge Domains; CiteSpace
+- Keywords: Scenario Analysis; Bibliometrics; Research Review; Mapping Knowledge Domains; CiteSpace
 </div>
 </div>
 ## 🏙️ Urban and regional planning
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">城市规划学刊 2021</div><img src='images/论文1500300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The Urban Network in the Yangtze River Delta Based on Planning Text Analysis——Take the 14th Five-year Plan of Cities as an Example](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHR-asFLc0JKWm_29q9yBJ91mJrsWTJSyn0Hvmp0t8bqy&uniplatform=NZKPT) <br/>基于规划文本分析的长三角城市网络研究——以各市“十四五”规划建议为例
+[-The Urban Network in the Yangtze River Delta Based on Planning Text Analysis——Take the 14th Five-year Plan of Cities as an Example](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHR-asFLc0JKWm_29q9yBJ91mJrsWTJSyn0Hvmp0t8bqy&uniplatform=NZKPT) <br/>基于规划文本分析的长三角城市网络研究——以各市“十四五”规划建议为例
 
 **Yin Dou**, Yajuan Wang
 
-- Keywords:the Yangtze River Delta urban agglomeration;urban network;the 14thfive-year plan;social network analysis;text analysis 
+- Keywords: the Yangtze River Delta urban agglomeration;urban network;the 14thfive-year plan;social network analysis;text analysis 
 </div>
 </div>
 
@@ -72,11 +72,11 @@ You can find my CV here[Yin Dou's CV](images/Yin Dou - CV.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国城市规划年会 2020</div><img src='images/论文3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ A Study on the Spatial Structure and Planning Evaluation of New Area Based on Space Syntax -- A Case Study of Shanghai Hongqiao Business District](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOEEIKB-6S51JyFOld47yB1sKgi83M_Pv5h0N5KwuPCAxH52ENSZBOdJpNZLiE5N8nW4_R1kZ-pANc%3d&uniplatform=NZKPT) <br/>基于空间句法的新区空间组构及规划评价研究——以上海虹桥商务区为例
+[-A Study on the Spatial Structure and Planning Evaluation of New Area Based on Space Syntax -- A Case Study of Shanghai Hongqiao Business District](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOEEIKB-6S51JyFOld47yB1sKgi83M_Pv5h0N5KwuPCAxH52ENSZBOdJpNZLiE5N8nW4_R1kZ-pANc%3d&uniplatform=NZKPT) <br/>基于空间句法的新区空间组构及规划评价研究——以上海虹桥商务区为例
 
 **Yin Dou**
 
-- Keywords:Hongqiao Business District; Space syntax; Spatial configuration; Urban structure; Planning evaluation
+- Keywords: Hongqiao Business District; Space syntax; Spatial configuration; Urban structure; Planning evaluation
 </div>
 </div>
 - [**窦寅**.国内外城市商务区绿色交通规划实践及研究综述——兼谈对上海商务区的指导意义](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHSCxbfygg5TkhkJjXE75siaELLhiJYLN8E_Gxj4zwR3x&uniplatform=NZKPT)[J].城市建筑,2021,18(26):60-63.<br/>**Yin Dou**. Review of Green Transportation Planning Practice and Research in Urban Business Districts at Home and Abroad [J].Urbanism and Architecture,2021,18(26): 60-63. DOI: 10.19892/j.cnki.csjz.2021.26.15. 
