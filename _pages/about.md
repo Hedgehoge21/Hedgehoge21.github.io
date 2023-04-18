@@ -103,7 +103,7 @@ You can find my CV here[Yin Dou's CV](images/Yin Dou - CV.pdf).
 <br/>
 
 # 💬 Presentations
-- *2021.09*, Special Meeting of 2020/2021 China Urban Planning Annual Meeting, Chengdu, China<br/>2020/2021中国城市规划年会专题会议，四川成都
+- *2021.09*, Special Meeting of 2020/2021 China Urban Planning Annual Meeting, Chengdu, China<br/>2020/2021中国城市规划年会专题会议，四川成都 [More](https://mp.weixin.qq.com/s/D57gApYFW9QtmpCVFMILEw)
 - *2021.04*, Urban Space Analysis Forum ＆ The 6th Space Syntax Symposium in China, Guangzhou, China<br/>2021城市空间分析论坛暨第六届中国空间句法学术研讨会，广东广州，华南理工大学
 - *2020.10*, 13th International Forum on Urbanism（IFOU2020）, Nanjing, China<br/>第十三届国际城市化论坛，江苏南京，南京大学
 <br/>
