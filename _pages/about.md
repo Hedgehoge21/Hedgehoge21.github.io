@@ -69,6 +69,16 @@ You can find my CV here[Yin Dou's CV](images/Yin Dou - CV.pdf).
 </div>
 
 ## 🏢 New town and new area
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国城市规划年会 2020</div><img src='images/论文3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ A Study on the Spatial Structure and Planning Evaluation of New Area Based on Space Syntax -- A Case Study of Shanghai Hongqiao Business District](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOEEIKB-6S51JyFOld47yB1sKgi83M_Pv5h0N5KwuPCAxH52ENSZBOdJpNZLiE5N8nW4_R1kZ-pANc%3d&uniplatform=NZKPT) <br/>基于空间句法的新区空间组构及规划评价研究——以上海虹桥商务区为例
+
+**Yin Dou**
+
+- Keywords:Hongqiao Business District; Space syntax; Spatial configuration; Urban structure; Planning evaluation
+</div>
+</div>
 - [**窦寅**.国内外城市商务区绿色交通规划实践及研究综述——兼谈对上海商务区的指导意义](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHSCxbfygg5TkhkJjXE75siaELLhiJYLN8E_Gxj4zwR3x&uniplatform=NZKPT)[J].城市建筑,2021,18(26):60-63.<br/>**Yin Dou**. Review of Green Transportation Planning Practice and Research in Urban Business Districts at Home and Abroad [J].Urbanism and Architecture,2021,18(26): 60-63. DOI: 10.19892/j.cnki.csjz.2021.26.15. 
 
 - [**窦寅**,王欣宜. 城市商务区空中步行系统效能评价研究——以虹桥商务区中轴为例](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOE4DdIn5fHRa7whAmAecdzvdhEf9I9nOP-XjXJEQ5_H_3Kyd51U0FZClx-p_4l8dXl-IJjTH5VcQk%3d&uniplatform=NZKPT)[C]//中国城市规划学会城市交通规划学术委员会.2021/2022年中国城市交通规划年会论文集.2022:3145-3156.<br/>**Yin Dou**, Xinyi Wang. Study on Efficiency Evaluation of Skyway System in Urban Business District: A Case Study of the Central Axis of Hongqiao Business District. 2021/2022 Annual Conference on Urban Transportation Planning in China. Shanghai, China, 2022, 3145-3156. DOI: 10.26914/c.cnkihy.2022.059347.
