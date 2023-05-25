@@ -89,6 +89,7 @@ You can find my CV here[Yin Dou's CV](images/Yin Dou - CV.pdf).
 <br/>
 
 # 🎖 Honors and Awards
+- *2023* 6th Jin Jingchang China Urban and Rural Planning Postgraduate Thesis Competition Silver Award 第六届“金经昌中国城乡规划研究生论文竞赛"银奖
 - *2022* Excellent graduate of Tongji University 同济大学优秀毕业生
 - *2021* National scholarship 国家奖学金
 - *2021* Excellent student of Tongji University 同济大学优秀学生
