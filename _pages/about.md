@@ -46,7 +46,7 @@ You can find my CV here[Yin Dou's CV](images/Yin Dou - CV.pdf).
 
 # 📝 Publications 
 ## 📑 Scenario planning
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">第六届金经昌中国城乡规划研究生论文竞赛</div><img src='images/hongqiao.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">第六届金经昌中国城乡规划研究生论文竞赛 2023</div><img src='images/hongqiao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Research on Plan Evaluation of Urban New Area Based on Scenario Simulation of Job-Housing Spatial Performance——Take Hongqiao Business District as an example<br/>基于职住空间绩效情景模拟的新区规划方案评价方法研究——以虹桥商务区为例
