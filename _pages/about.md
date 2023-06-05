@@ -54,7 +54,8 @@ You can find my CV here[Yin Dou's CV](images/Yin Dou - CV.pdf).
 **Yin Dou**, Shangwu Zhang
 
 - Keywords: Scenario Analysis; Bibliometrics; Research Review; Mapping Knowledge Domains; CiteSpace
-</div> 
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">第六届金经昌中国城乡规划研究生论文竞赛</div><img src='images/hongqiao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -64,7 +65,7 @@ Research on Plan Evaluation of Urban New Area Based on Scenario Simulation of Jo
 
 - Keywords: Hongqiao Business District, spatial performance, multiple scenario simulation, plan evaluation, job-housing balance, urban new area
 </div>
-
+</div>  
   
 ## 🏙️ Urban and regional planning
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">城市规划学刊 2021</div><img src='images/论文1500300.png' alt="sym" width="100%"></div></div>
