@@ -117,7 +117,7 @@ Research on Plan Evaluation of Urban New Area Based on Scenario Simulation of Jo
 <br/>
 
 # 💬 Presentations
-- *2023.08*, Global Smart Cities Summit (GSCS 2023) cum The 3rd International Conference on Urban Informatics (ICUI 2023)<br/>全球智慧城市峰会暨第三届国际城市信息学大会，中国香港，香港理工大学 [More](https://mp.weixin.qq.com/s/D57gApYFW9QtmpCVFMILEw](https://isocui.org/icui2023/about/photo-album/22_august_pm/index.html)
+- *2023.08*, Global Smart Cities Summit (GSCS 2023) cum The 3rd International Conference on Urban Informatics (ICUI 2023)<br/>全球智慧城市峰会暨第三届国际城市信息学大会，中国香港，香港理工大学 [More](https://isocui.org/icui2023/about/photo-album/22_august_pm/index.html)
 - *2021.09*, Special Meeting of 2020/2021 China Urban Planning Annual Meeting, Chengdu, China<br/>2020/2021中国城市规划年会专题会议，四川成都 [More](https://mp.weixin.qq.com/s/D57gApYFW9QtmpCVFMILEw)
 - *2021.04*, Urban Space Analysis Forum ＆ The 6th Space Syntax Symposium in China, Guangzhou, China<br/>2021城市空间分析论坛暨第六届中国空间句法学术研讨会，广东广州，华南理工大学
 - *2020.10*, 13th International Forum on Urbanism（IFOU2020）, Nanjing, China<br/>第十三届国际城市化论坛，江苏南京，南京大学
