@@ -30,9 +30,9 @@ Transportation planning: Transit Oriented Development (TOD), High-speed rail sta
 我的研究兴趣包括但不限于以下方面：区域和城市空间发展（总体规划、城市发展政策、战略研究、情景规划、城市网络、城市结构）、交通规划（TOD、高铁、公共交通）。
 <br/>
 <br/>
-**Recent work:** My recent research includes using mobile phone signaling data to analyze commuting in Shanghai Hongqiao Business District and evaluate its planning scheme. 
+**Recent work:** My recent research includes using mobile phone signaling data to analyze commuting in Shanghai Hongqiao Business District and evaluate its planning scheme. The research during my PhD focused on methods for compactness evaluation and regulation of the urban spatial structure.
 
-我最近的研究包括利用手机信令数据分析上海虹桥商业区的通勤情况，并评估其规划方案。
+我最近的研究包括利用手机信令数据分析上海虹桥商业区的通勤情况，并评估其规划方案。博士期间的研究主要涉及城市空间结构的紧凑性评价和调控方法。
 <br/>
 <br/>
 **Other:** My hobbies include music, travel, photography, running, flying drone and so on.
@@ -40,7 +40,7 @@ Transportation planning: Transit Oriented Development (TOD), High-speed rail sta
 我的兴趣爱好包括音乐、旅行、摄影、跑步、飞无人机等。
 <br/>
 <br/>
-You can find my CV here[Yin Dou's CV](images/Yin Dou - CV.pdf).
+You can find my CV here ((Updated December 2023))[Yin Dou's CV](images/Yin Dou - CV.pdf).
 <br/>
 <br/>
 
@@ -95,7 +95,7 @@ Research on Plan Evaluation of Urban New Area Based on Scenario Simulation of Jo
 
 - [**窦寅**,王欣宜. 城市商务区空中步行系统效能评价研究——以虹桥商务区中轴为例](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOE4DdIn5fHRa7whAmAecdzvdhEf9I9nOP-XjXJEQ5_H_3Kyd51U0FZClx-p_4l8dXl-IJjTH5VcQk%3d&uniplatform=NZKPT)[C]//中国城市规划学会城市交通规划学术委员会.2021/2022年中国城市交通规划年会论文集.2022:3145-3156.<br/>**Yin Dou**, Xinyi Wang. Study on Efficiency Evaluation of Skyway System in Urban Business District: A Case Study of the Central Axis of Hongqiao Business District. 2021/2022 Annual Conference on Urban Transportation Planning in China. Shanghai, China, 2022, 3145-3156. DOI: 10.26914/c.cnkihy.2022.059347.
 
-## 🚌 Tranportation
+## 🚌 Transportation
 - [王欣宜,**窦寅**. 社区生活圈公共交通可达性的测度优化与评价——以上海市杨浦区居住小区为例](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOE4DdIn5fHRa7whAmAecdzvdhEf9I9nOP-Bo1NMlJcOfb_7t1TBm1jOgOVcH-4Ixu2avtI1RWQybw%3d&uniplatform=NZKPT)[C]//中国城市规划学会城市交通规划学术委员会.2021/2022年中国城市交通规划年会论文集.2022:296-307.<br/>Xinyi Wang, **Yin Dou**. Measurement and Evaluation of Public Transport Accessibility in Community Living Circle: A Case Study of Yangpu, Shanghai. 2021/2022 Annual Conference on Urban Transportation Planning in China. Shanghai, China, 2022, 296-307. DOI: 10.26914/c.cnkihy.2022.059103.
 <br/>
 <br/>
