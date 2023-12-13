@@ -40,7 +40,7 @@ Transportation planning: Transit Oriented Development (TOD), High-speed rail sta
 我的兴趣爱好包括音乐、旅行、摄影、跑步、飞无人机等。
 <br/>
 <br/>
-You can find my CV here ((Updated December 2023))[Yin Dou's CV](images/Yin Dou - CV.pdf).
+You can find my CV here (Updated December 2023)[Yin Dou's CV](images/Yin Dou - CV.pdf).
 <br/>
 <br/>
 
