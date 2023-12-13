@@ -101,7 +101,8 @@ Research on Plan Evaluation of Urban New Area Based on Scenario Simulation of Jo
 <br/>
 
 # 🎖 Honors and Awards
-- *2023* 6th Jin Jingchang China Urban and Rural Planning Postgraduate Thesis Competition Silver Award 第六届“金经昌中国城乡规划研究生论文竞赛"银奖
+- *2023* Merit Award of Best Conference Paper Award, GSCS & ICUI 2023 全球智慧城市峰会暨第三届国际城市信息学大会最佳会议论文优秀奖
+- *2023* Silver Award in the 6th Jin Jingchang China Urban and Rural Planning Postgraduate Thesis Competition  第六届“金经昌中国城乡规划研究生论文竞赛"银奖
 - *2022* Excellent graduate of Tongji University 同济大学优秀毕业生
 - *2021* National scholarship 国家奖学金
 - *2021* Excellent student of Tongji University 同济大学优秀学生
@@ -110,12 +111,13 @@ Research on Plan Evaluation of Urban New Area Based on Scenario Simulation of Jo
 
 # 📖 Educations
 - *2022.09 - now*, **Ph.D. candidate**: Department of Urban Planning, **Tongji University**, Shanghai, China<br/>博士研究生：城市规划系，同济大学，中国上海（2022年至今）
-- *2019.09 - 2022.06*, **Master of Engineering**: Department of Urban Planning, **Tongji University**, Shanghai, China<br/>工学硕士：城市规划系，同济大学，中国上海（2019年-2022年）<br/>The Dissertation for Master Degree: Research on Scheme Evaluation and Optimization of Hongqiao Business District Based on Scenario Simulation of Job-Housing Spatial Performance<br/>硕士学位论文：基于职住空间绩效情景模拟的虹桥商务区规划评价与优化
+- *2019.09 - 2022.06*, **Master of Urban Planning**: Department of Urban Planning, **Tongji University**, Shanghai, China<br/>城市规划硕士：城市规划系，同济大学，中国上海（2019年-2022年）<br/>The Dissertation for Master Degree: Research on Scheme Evaluation and Optimization of Hongqiao Business District Based on Scenario Simulation of Job-Housing Spatial Performance<br/>硕士学位论文：基于职住空间绩效情景模拟的虹桥商务区规划评价与优化
 - *2014.09 - 2019.06*, **Bachelor of Engineering**: Department of Urban Planning, **Xi'an University of Architecture and Technology**, Xi'an, China<br/>工学学士：城市规划系，西安建筑科技大学，中国西安（2014年-2019年）<br/>Graduation project: Urban Design of Typical Small Towns around Xiongan New Area<br/>毕业设计：雄安新区周边典型小城镇设计
 <br/>
 <br/>
 
 # 💬 Presentations
+- *2023.08*, Global Smart Cities Summit (GSCS 2023) cum The 3rd International Conference on Urban Informatics (ICUI 2023)<br/>全球智慧城市峰会暨第三届国际城市信息学大会，中国香港，香港理工大学
 - *2021.09*, Special Meeting of 2020/2021 China Urban Planning Annual Meeting, Chengdu, China<br/>2020/2021中国城市规划年会专题会议，四川成都 [More](https://mp.weixin.qq.com/s/D57gApYFW9QtmpCVFMILEw)
 - *2021.04*, Urban Space Analysis Forum ＆ The 6th Space Syntax Symposium in China, Guangzhou, China<br/>2021城市空间分析论坛暨第六届中国空间句法学术研讨会，广东广州，华南理工大学
 - *2020.10*, 13th International Forum on Urbanism（IFOU2020）, Nanjing, China<br/>第十三届国际城市化论坛，江苏南京，南京大学
