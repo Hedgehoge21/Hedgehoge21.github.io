@@ -40,7 +40,7 @@ Transportation planning: Transit Oriented Development (TOD), High-speed rail sta
 我的兴趣爱好包括音乐、旅行、摄影、跑步、飞无人机等。
 <br/>
 <br/>
-You can find my CV here (Updated December 2023)[Yin Dou's CV](images/Yin Dou - CV.pdf).
+You can find my CV here (Updated October 2024)[Yin Dou's CV](images/Yin Dou - CV (2).pdf).
 <br/>
 <br/>
 
@@ -110,9 +110,10 @@ Research on Plan Evaluation of Urban New Area Based on Scenario Simulation of Jo
 <br/>
 
 # 📖 Educations
-- *2022.09 - now*, **Ph.D. candidate**: Department of Urban Planning, **Tongji University**, Shanghai, China<br/>博士研究生：城市规划系，同济大学，中国上海（2022年至今）
-- *2019.09 - 2022.06*, **Master of Urban Planning**: Department of Urban Planning, **Tongji University**, Shanghai, China<br/>城市规划硕士：城市规划系，同济大学，中国上海（2019年-2022年）<br/>The Dissertation for Master Degree: Research on Scheme Evaluation and Optimization of Hongqiao Business District Based on Scenario Simulation of Job-Housing Spatial Performance<br/>硕士学位论文：基于职住空间绩效情景模拟的虹桥商务区规划评价与优化
-- *2014.09 - 2019.06*, **Bachelor of Engineering**: Department of Urban Planning, **Xi'an University of Architecture and Technology**, Xi'an, China<br/>工学学士：城市规划系，西安建筑科技大学，中国西安（2014年-2019年）<br/>Graduation project: Urban Design of Typical Small Towns around Xiongan New Area<br/>毕业设计：雄安新区周边典型小城镇设计
+- *2024.05 - 2024.08*, **Visiting Ph.D.**: Department of Mobility Systems Engineering, **Technical University of Munich**, Germany<br/>访问博士生：移动系统工程系，德国慕尼黑工业大学
+- *2022.09 - now*, **Ph.D. candidate**: Department of Urban Planning, **Tongji University**, China<br/>博士研究生：城市规划系，同济大学
+- *2019.09 - 2022.06*, **Master of Urban Planning**: Department of Urban Planning, **Tongji University**, China<br/>城市规划硕士：城市规划系，同济大学<br/>The Dissertation for Master Degree: Research on Scheme Evaluation and Optimization of Hongqiao Business District Based on Scenario Simulation of Job-Housing Spatial Performance<br/>硕士学位论文：基于职住空间绩效情景模拟的虹桥商务区规划评价与优化
+- *2014.09 - 2019.06*, **Bachelor of Engineering**: Department of Urban Planning, **Xi'an University of Architecture and Technology**, China<br/>工学学士：城市规划系，西安建筑科技大学<br/>Graduation project: Urban Design of Typical Small Towns around Xiongan New Area<br/>毕业设计：雄安新区周边典型小城镇设计
 <br/>
 <br/>
 
@@ -131,6 +132,13 @@ Research on Plan Evaluation of Urban New Area Based on Scenario Simulation of Jo
 
 **Urban notochord ——Urban Design of Zhangjiang Science City in Pudong, Shanghai**<br/>**城市脊索——上海浦东张江科学城城市设计**<br/>
 The design land is long and narrow, scattered and lacks public activity center. The idea of urban notochord is put forward as a means of spatial organization mode, repairing and optimizing land use and elements. Through the connection of multi-layer transportation network, it is connected and integrated with the original functions.
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2020</div><img src='images/design5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Courtyards embracing the wilderness——Rural Design of Maoqiao Village in Jiading, Shanghai**<br/>**聚院 归野——上海嘉定毛桥村村庄设计**<br/>
+The design is carried out from the two levels of “inward gathering” and “outward expansion”, integrating public space by gathering courtyards inwardly, strengthening rural space by weaving agriculture and forestry outwardly, and strengthening the role of the village in driving the agricultural tourism, lodging and collective economy through the implantation of localized public service facilities and commercial service facilities. 
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2019</div><img src='images/design2.png' alt="sym" width="100%"></div></div>
