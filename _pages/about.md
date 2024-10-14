@@ -138,7 +138,8 @@ The design land is long and narrow, scattered and lacks public activity center. 
 <div class='paper-box-text' markdown="1">
 
 **Courtyards embracing the wilderness——Rural Design of Maoqiao Village in Jiading, Shanghai**<br/>**聚院 归野——上海嘉定毛桥村村庄设计**<br/>
-The design is carried out from the two levels of “inward gathering” and “outward expansion”, integrating public space by gathering courtyards inwardly, strengthening rural space by weaving agriculture and forestry outwardly, and strengthening the role of the village in driving the agricultural tourism, lodging and collective economy through the implantation of localized public service facilities and commercial service facilities. 
+The design is carried out from the two levels of “inward gathering” and “outward expansion”, integrating public space by gathering courtyards inwardly, strengthening rural space by weaving agriculture and forestry outwardly, and strengthening the role of the village in driving the agricultural tourism, lodging and collective economy through the implantation of localized public service facilities and commercial service facilities. <br/>
+This work won the second prize in the second Shanghai “Beautiful Countryside” Youth Creative Design Competition in 2020. [More](https://mp.weixin.qq.com/s/UZ-gLpMoxv6c3C5jKQ8BSA)
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2019</div><img src='images/design2.png' alt="sym" width="100%"></div></div>
