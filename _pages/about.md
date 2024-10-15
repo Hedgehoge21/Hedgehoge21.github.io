@@ -35,9 +35,9 @@ Transportation planning: Transit Oriented Development (TOD), High-speed rail sta
 我最近的研究包括利用手机信令数据分析上海虹桥商业区的通勤情况，并评估其规划方案。博士期间的研究主要涉及城市空间结构的紧凑性评价和调控方法。
 <br/>
 <br/>
-**Other:** My hobbies include music, travel, photography, running, flying drone and so on.
+**Other:** My hobbies include music, travel, photography, running, flying drone and so on. I am fluent in Chinese and English and am learning Japanese and German. I have traveled to 19 countries or regions around the world.
 
-我的兴趣爱好包括音乐、旅行、摄影、跑步、飞无人机等。
+我的兴趣爱好包括音乐、旅行、摄影、跑步、飞无人机等。我熟练掌握中文和英文，并且在学习日语和德语中。我已经到过全球19个国家或地区。
 <br/>
 <br/>
 You can find my CV here (Updated October 2024)[Yin Dou's CV](images/Yin Dou - CV (2).pdf).
@@ -118,6 +118,7 @@ Research on Plan Evaluation of Urban New Area Based on Scenario Simulation of Jo
 <br/>
 
 # 💬 Presentations
+- *2024.07*, Association of European Schools of Planning (AESOP) 2024 Annual Congress, Paris, France<br/>欧洲规划院校学会2024年会，法国巴黎，巴黎政治学院
 - *2023.08*, Global Smart Cities Summit (GSCS 2023) cum The 3rd International Conference on Urban Informatics (ICUI 2023)<br/>全球智慧城市峰会暨第三届国际城市信息学大会，中国香港，香港理工大学 [More](https://isocui.org/icui2023/about/photo-album/22_august_pm/index.html)
 - *2021.09*, Special Meeting of 2020/2021 China Urban Planning Annual Meeting, Chengdu, China<br/>2020/2021中国城市规划年会专题会议，四川成都 [More](https://mp.weixin.qq.com/s/D57gApYFW9QtmpCVFMILEw)
 - *2021.04*, Urban Space Analysis Forum ＆ The 6th Space Syntax Symposium in China, Guangzhou, China<br/>2021城市空间分析论坛暨第六届中国空间句法学术研讨会，广东广州，华南理工大学
@@ -139,7 +140,7 @@ The design land is long and narrow, scattered and lacks public activity center. 
 
 **Courtyards embracing the wilderness——Rural Design of Maoqiao Village in Jiading, Shanghai**<br/>**聚院 归野——上海嘉定毛桥村村庄设计**<br/>
 The design is carried out from the two levels of “inward gathering” and “outward expansion”, integrating public space by gathering courtyards inwardly, strengthening rural space by weaving agriculture and forestry outwardly, and strengthening the role of the village in driving the agricultural tourism, lodging and collective economy through the implantation of localized public service facilities and commercial service facilities. <br/>
-This work won the second prize in the second Shanghai “Beautiful Countryside” Youth Creative Design Competition in 2020. [More](https://mp.weixin.qq.com/s/UZ-gLpMoxv6c3C5jKQ8BSA)
+This work won the second prize in the 2nd Shanghai “Beautiful Countryside” Youth Creative Design Competition in 2020. [More](https://mp.weixin.qq.com/s/UZ-gLpMoxv6c3C5jKQ8BSA)
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2019</div><img src='images/design2.png' alt="sym" width="100%"></div></div>
